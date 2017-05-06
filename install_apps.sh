@@ -1,10 +1,10 @@
 cd /
 
+# ntfs-config / ntfs-3g
+sudo apt-get install ntfs-config ntfs-3g
+
 # install vim
 sudo apt-get install vim-gnome
-
-# install python3
-sudo apt-get install python3
 
 # chromium browser
 sudo apt-get install chromium-browser
